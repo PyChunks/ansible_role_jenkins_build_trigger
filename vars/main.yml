@@ -1,0 +1,10 @@
+---
+# vars file for ansible_role_jenkins_build_trigger
+
+# jenkins:
+#   host: 
+#   user: 
+#   passwd: 
+#   token: 
+#   job: 
+

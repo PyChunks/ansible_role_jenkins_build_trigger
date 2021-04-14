@@ -1,0 +1,6 @@
+---
+# tasks file for ansible_role_jenkins_build_trigger
+
+- name: Trigger Jenkins Build
+  ansible.builtin.command:
+    cmd: "{{ build_command }}" 
