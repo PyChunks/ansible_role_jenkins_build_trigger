@@ -22,11 +22,15 @@ jenkins:
 ```
 
 Where: 
-`host` is the url at which the jenkins server can be reached
-`user` is the jenkins server user allowed to trigger the build 
-`passwd` is the password associated to `user`
-`token` is the api token given to `user`
-`job` is the name of the job to trigger
+`host` is the url at which the jenkins server can be reached.
+
+`user` is the jenkins server user allowed to trigger the build. 
+
+`passwd` is the password associated to `user`.
+
+`token` is the api token given to `user`.
+
+`job` is the name of the job to trigger.
 
 
 Dependencies
